@@ -3,7 +3,8 @@ To survive as long as possible.
 
 Explanations of mechanics:
 You are a red square that you can control.
-There are randomly generated enemies, represented by blue squares, that spawn at given time intervals. If you touch one of the enemies take damage. If your health drops below zero you lose the game.
+There are randomly generated enemies, represented by blue squares, that spawn at given time intervals. If you touch one of the enemies take damage. 
+If your health drops below zero you lose the game.
 There is a yellow square that spawns randomly which gives you coins to purchase from the shop and increases your score.
 Your score also increases the longer you survive.
 Your health is represented by a red bar near the bottom of the game.
