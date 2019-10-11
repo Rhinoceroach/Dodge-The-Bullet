@@ -11,7 +11,7 @@ Your health is represented by a red bar near the bottom of the game.
 Controls:
 WASD - to move the player
 R - open shop
-leftclick - click on one of the pictures to buy an upgrade from the shop
+Leftclick - click on one of the pictures to buy an upgrade from the shop
 
 Shop upgrades:
 Increase speed - represented by boots
